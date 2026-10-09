@@ -1,0 +1,13 @@
+{
+  "name": "dalnomer",
+  "owner": {
+    "name": "Yuriy Bylinkin"
+  },
+  "plugins": [
+    {
+      "name": "dalnomer",
+      "source": "./",
+      "description": "Поговорки Даля к месту в рабочей сессии Claude Code."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dalnomer",
+  "version": "1.0.0",
+  "description": "Дальномер: поговорки из сборника В. И. Даля «Пословицы русского народа» в рабочей сессии Claude Code - поговорка дня из Месяцеслова и поговорка к месту в ключевые моменты работы.",
+  "author": {
+    "name": "Yuriy Bylinkin"
+  },
+  "homepage": "https://github.com/yuriybylinkin/dalnomer",
+  "repository": "https://github.com/yuriybylinkin/dalnomer",
+  "license": "MIT",
+  "keywords": ["russian", "proverbs", "dal", "skill"]
+}
